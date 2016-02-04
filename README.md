@@ -5,8 +5,8 @@ Welcome to the Connected Gamedev repository where you can find all the resources
 URL: [connected.gamedevjs.com](http://connected.gamedevjs.com/)
 
 ### Initial team:
-- Andrzej Mazur - @end3r
-- David Blanchard - @daviddagb2
-- Alex Saladrigas - @sajirdalas 
-- Mohammed Migdadi - @migdadi
-- Ivan Zeledon - @firefistbear
+- Andrzej Mazur - [@end3r](http://github.com/)
+- David Blanchard - [@daviddagb2](http://github.com/daviddagb2)
+- Alex Saladrigas - [@sajirdalas](http://github.com/sajirdalas)
+- Mohammed Migdadi - [@migdadi](http://github.com/migdadi)
+- Ivan Zeledon - [@firefistbear](http://github.com/firefistbear)
